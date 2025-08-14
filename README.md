@@ -5,20 +5,17 @@
 </p>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnkitsinghaniaAKS&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
+
 
 <!-- ABOUT -->
-## 💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 B.Tech CSE student • India  
+- 🎓 Final-year B.Tech CSE student.  
 - 🚀 I love building full-stack web apps and solving DSA problems  
 - 🔭 Currently exploring **Node.js, Express, MongoDB, MySQL**  
 - 📚 Practising **System Design** basics & Linux  
-- 🧮 Solved <b>XX+</b> coding problems (LeetCode / GFG)  
-- 🎯 Goal: Crack top product-based MNCs & build my own brand  
-- 📫 Reach me: <a href="https://www.linkedin.com/in/ankit-singhania-aks">LinkedIn</a> • <a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+- 🧮 Solved 300+ coding problems (LeetCode / GFG)   
+- 📫 Reach me: <a href="https://www.linkedin.com/in/ankit-singhania-aks">LinkedIn</a> • <a href="mailto:ankitsinghaniaaks@gmail.com">Email</a>
 
 ---
 
@@ -139,12 +136,14 @@
 ## 🤝 Let's Connect!
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ankitsinghaniaaks@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ankit-singhania-aks"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/AnkitsinghaniaAKS"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnkitsinghaniaAKS&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+</p>
 <p align="center"><i>⚡ Fun fact: I never push broken code — unless I forget 😅</i></p>
