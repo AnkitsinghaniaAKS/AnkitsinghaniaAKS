@@ -1,72 +1,70 @@
-# Hi, I'm Ankit Singhania
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Ankit Singhania</h1>
+<h3 align="center">💻 Aspiring Full-Stack Developer | Python | Java | DSA | Linux</h3>
 
+<p align="center">
+  🌍 India | 🚀 Learning & Building Daily | 🎯 Future: Top Product-Based Companies + My Own Brand
+</p>
 
+---
 
-## Beginner
-*   🌍  I'm based in India
-*   🧠  I'm learning web deve.
-*   🤝  I'm open to collaborating on Python, java and linux
-*   📩 Contact me : [Telegram]
+## 👨‍💻 About Me
+- 🌱 Currently mastering **Full-Stack Web Development** & **DSA**
+- 🧠 Skills in **Python, Java, C, Linux, HTML, CSS, Bootstrap**
+- 💬 I can talk about **Backend Development, Problem Solving, Basic DevOps**
+- 🎯 Goals: Crack FAANG/top MNCs, build scalable apps, and grow a personal brand
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ankit-singhania-aks)
+- ⚡ Fun fact: My code works… after I Google it 😄
 
+---
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## 🛠 Skills
 
+### 🌐 Frontend
+<p align="left">
+  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" alt="HTML5"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" alt="Bootstrap"/>
+</p>
 
+### 🔙 Backend
+<p align="left">
+  <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" alt="Python"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" alt="Java"/>
+  <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" alt="Linux"/>
+</p>
 
-### Frontend  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-</div>
+### 🧩 Other
+<p align="left">
+  <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" alt="C"/>
+</p>
 
-</td><td valign="top" width="33%">
+---
 
+## 📌 Featured Projects
 
+- **🛒 DSA Tracker App** – Track DSA questions like LeetCode, with dark mode & coding-themed UI.  
+  *(HTML, CSS, JS, Node.js)* – [Repo Link](https://github.com/AnkitsinghaniaAKS)
 
-### Backend  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-</div>
+- **🌿 Nature Brew Website** – E-commerce wellness tea website with health-focused design.  
+  *(HTML, CSS, Bootstrap)* – [Repo Link](https://github.com/AnkitsinghaniaAKS)
 
-</td><td valign="top" width="33%">
+- **🔐 Python Password Manager** – CLI-based encrypted password storage.  
+  *(Python, Cryptography)* – [Repo Link](https://github.com/AnkitsinghaniaAKS)
 
+---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitsinghaniaAKS&show_icons=true&count_private=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnkitsinghaniaAKS&hide_border=true" />
+</p>
 
-### DevOps  
-<div align="center">  
+---
 
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href=" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href= target="_blank">
-<img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnkitsinghaniaAKS&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://github.com/AnkitsinghaniaAKS"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ankit-singhania-aks"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
