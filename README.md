@@ -43,7 +43,6 @@
       <img src="https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black" />
     </td>
   </tr>
   <tr>
