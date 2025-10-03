@@ -12,7 +12,6 @@
 
 - 🎓 Final-year B.Tech CSE student.  
 - 🚀 I love building full-stack web apps and solving DSA problems  
-- 🔭 Currently exploring **Node.js, Express, MongoDB, MySQL**  
 - 📚 Practising **System Design** basics & Linux  
 - 🧮 Solved 300+ coding problems (LeetCode / GFG)   
 - 📫 Reach me: <a href="https://www.linkedin.com/in/ankit-singhania-aks">LinkedIn</a> • <a href="mailto:ankitsinghaniaaks@gmail.com">Email</a>
